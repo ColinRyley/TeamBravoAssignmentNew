@@ -16,14 +16,14 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3163845598" Language="SFX" Hash="2794982648">
+		<SoundBank Id="3163845598" Language="SFX" Hash="2854848363">
 			<ObjectPath>\SoundBanks\GitKrakenAssignment\GitKrakenAssignment</ObjectPath>
 			<ShortName>GitKrakenAssignment</ShortName>
 			<Path>GitKrakenAssignment.bnk</Path>
 			<IncludedMemoryFiles>
 				<File Id="717913603" Language="SFX">
 					<ShortName>Waves,Beach,Wind.wav</ShortName>
-					<Path>SFX/Waves,Beach,Wind_10C4C929.wem</Path>
+					<Path>SFX/Waves,Beach,Wind_D79FB2B7.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

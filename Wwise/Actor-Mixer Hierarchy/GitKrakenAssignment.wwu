@@ -4,6 +4,9 @@
 		<WorkUnit Name="GitKrakenAssignment" ID="{5D61655A-6D84-4458-A789-25365ABF81DC}" PersistMode="Standalone">
 			<ChildrenList>
 				<Sound Name="Waves,Beach,Wind" ID="{ABD7E3CA-3E3B-4469-9817-41EC4A1C376E}" ShortID="210236804">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{1B34D403-85BC-4D30-BD11-BCC1A09FEBBD}"/>
