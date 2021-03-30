@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FCF1A605-741B-4E2E-9BDF-7983F33C9869}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="GitKrakenAssignment" ID="{FCF1A605-741B-4E2E-9BDF-7983F33C9869}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="GitKrakenAssignment" ID="{CD526DF1-5B0C-4080-8006-EF368B7131A1}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Waves,Beach,Wind" ID="{ABD7E3CA-3E3B-4469-9817-41EC4A1C376E}" WorkUnitID="{5D61655A-6D84-4458-A789-25365ABF81DC}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

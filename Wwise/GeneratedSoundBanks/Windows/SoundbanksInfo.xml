@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>/Users/sound/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/sd98colin/Term 3/Git/TeamBravoAssignmentNew/Wwise/</ProjectRoot>
+		<SourceFilesRoot>/Users/sound/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/sd98colin/Term 3/Git/TeamBravoAssignmentNew/Wwise/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/sound/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/sd98colin/Term 3/Git/TeamBravoAssignmentNew/Wwise/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/sound/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/sd98colin/Term 3/Git/TeamBravoAssignmentNew/Wwise/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3791779620">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3163845598" Language="SFX" Hash="2794982648">
+			<ObjectPath>\SoundBanks\GitKrakenAssignment\GitKrakenAssignment</ObjectPath>
+			<ShortName>GitKrakenAssignment</ShortName>
+			<Path>GitKrakenAssignment.bnk</Path>
+			<IncludedMemoryFiles>
+				<File Id="717913603" Language="SFX">
+					<ShortName>Waves,Beach,Wind.wav</ShortName>
+					<Path>SFX/Waves,Beach,Wind_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

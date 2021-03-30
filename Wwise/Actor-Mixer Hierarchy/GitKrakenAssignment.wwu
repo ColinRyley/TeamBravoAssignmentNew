@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5D61655A-6D84-4458-A789-25365ABF81DC}" SchemaVersion="97">
+	<AudioObjects>
+		<WorkUnit Name="GitKrakenAssignment" ID="{5D61655A-6D84-4458-A789-25365ABF81DC}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Waves,Beach,Wind" ID="{ABD7E3CA-3E3B-4469-9817-41EC4A1C376E}" ShortID="210236804">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{1B34D403-85BC-4D30-BD11-BCC1A09FEBBD}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E76FE493-94A9-43FC-A65B-18904B299FB2}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Waves,Beach,Wind" ID="{9C8E0C42-6EAB-496F-8D50-D6CBA2D724C4}">
+							<Language>SFX</Language>
+							<AudioFile>Waves,Beach,Wind.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="717913603"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Waves,Beach,Wind" ID="{9C8E0C42-6EAB-496F-8D50-D6CBA2D724C4}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
